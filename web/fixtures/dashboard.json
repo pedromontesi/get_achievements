@@ -1,0 +1,93 @@
+{
+    "profile": {
+        "user": "MaxMilyin",
+        "ulid": "00003EMFWR7XB8SDPEHB3K56ZQ",
+        "avatarUrl": "https://media.retroachievements.org/UserPic/MaxMilyin.png",
+        "profileUrl": "https://retroachievements.org/user/MaxMilyin",
+        "memberSince": "2016-01-02 00:43:04",
+        "motto": "Join me on Twitch!",
+        "lastActivity": "Playing Final Fantasy Origins",
+        "totalPoints": 399597,
+        "totalSoftcorePoints": 0,
+        "totalTruePoints": 1599212
+    },
+    "recentGames": [
+        {
+            "gameId": 11332,
+            "title": "Final Fantasy Origins",
+            "consoleName": "PlayStation",
+            "iconUrl": "https://media.retroachievements.org/Images/060249.png",
+            "boxArtUrl": "https://media.retroachievements.org/Images/046257.png",
+            "gameUrl": "https://retroachievements.org/game/11332",
+            "lastPlayed": "2023-10-27 00:30:04",
+            "achievementsTotal": 119,
+            "achievementsEarned": 38,
+            "achievementsEarnedHardcore": 38,
+            "pointsTotal": 945,
+            "pointsEarned": 382,
+            "completionPercent": 31
+        },
+        {
+            "gameId": 19010,
+            "title": "Simpsons, The: Hit & Run",
+            "consoleName": "PlayStation 2",
+            "iconUrl": "https://media.retroachievements.org/Images/066024.png",
+            "boxArtUrl": null,
+            "gameUrl": "https://retroachievements.org/game/19010",
+            "lastPlayed": "2023-10-20 22:05:12",
+            "achievementsTotal": 131,
+            "achievementsEarned": 23,
+            "achievementsEarnedHardcore": 23,
+            "pointsTotal": 865,
+            "pointsEarned": 84,
+            "completionPercent": 17
+        },
+        {
+            "gameId": 1,
+            "title": "Sonic the Hedgehog",
+            "consoleName": "Mega Drive",
+            "iconUrl": "https://media.retroachievements.org/Images/000001.png",
+            "boxArtUrl": null,
+            "gameUrl": "https://retroachievements.org/game/1",
+            "lastPlayed": "2023-10-01 10:00:00",
+            "achievementsTotal": 0,
+            "achievementsEarned": 0,
+            "achievementsEarnedHardcore": 0,
+            "pointsTotal": 0,
+            "pointsEarned": 0,
+            "completionPercent": 0
+        }
+    ],
+    "recentAchievements": [
+        {
+            "id": 51214,
+            "title": "You're a special Champ!",
+            "description": null,
+            "points": 25,
+            "trueRatio": 100,
+            "hardcore": false,
+            "unlockedAt": "2023-12-29 09:10:00",
+            "badgeUrl": "https://media.retroachievements.org/Badge/121991.png",
+            "achievementUrl": "https://retroachievements.org/achievement/51214",
+            "gameId": 6316,
+            "gameTitle": "WWF King of the Ring",
+            "gameIconUrl": "https://media.retroachievements.org/Images/062599.png",
+            "consoleName": "Game Boy"
+        },
+        {
+            "id": 98012,
+            "title": "Beginner I",
+            "description": "Clear stages 01 - 05.",
+            "points": 5,
+            "trueRatio": 25,
+            "hardcore": true,
+            "unlockedAt": "2023-12-27 16:04:50",
+            "badgeUrl": "https://media.retroachievements.org/Badge/108302.png",
+            "achievementUrl": "https://retroachievements.org/achievement/98012",
+            "gameId": 14715,
+            "gameTitle": "Pokemon Pinball mini",
+            "gameIconUrl": "https://media.retroachievements.org/Images/028399.png",
+            "consoleName": "Pokemon Mini"
+        }
+    ]
+}
