@@ -22,7 +22,7 @@ async fn main() {
         std::process::exit(1);
     });
 
-    let addr = format!("127.0.0.1:{}", config.port);
+    let addr = format!("0.0.0.0:{}", config.port);
     let state = Arc::new(AppState {
         ra: RaClient::new(&config),
     });
