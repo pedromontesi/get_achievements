@@ -1,3 +1,3 @@
 # Tudo que o navegador pedir em /api/ vai para a API em Rust (cargo run na raiz).
 [[proxy]]
-backend = "http://127.0.0.1:3001/api/"
+backend = "http://0.0.0.0:3001/api/"
